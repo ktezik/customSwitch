@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F48CEA6B291A812100D62EF4 /* ImageSwitch.swift in Sources */ = {isa = PBXBuildFile; fileRef = F48CEA6A291A812100D62EF4 /* ImageSwitch.swift */; };
 		F4FD5AD1291A69B200D844B1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FD5AD0291A69B200D844B1 /* AppDelegate.swift */; };
 		F4FD5AD3291A69B200D844B1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FD5AD2291A69B200D844B1 /* SceneDelegate.swift */; };
 		F4FD5AD5291A69B200D844B1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FD5AD4291A69B200D844B1 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F48CEA6A291A812100D62EF4 /* ImageSwitch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSwitch.swift; sourceTree = "<group>"; };
 		F4FD5ACD291A69B200D844B1 /* customSwitch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = customSwitch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4FD5AD0291A69B200D844B1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4FD5AD2291A69B200D844B1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				F4FD5AD0291A69B200D844B1 /* AppDelegate.swift */,
 				F4FD5AD2291A69B200D844B1 /* SceneDelegate.swift */,
 				F4FD5AD4291A69B200D844B1 /* ViewController.swift */,
+				F48CEA6A291A812100D62EF4 /* ImageSwitch.swift */,
 				F4FD5AD6291A69B200D844B1 /* Main.storyboard */,
 				F4FD5AD9291A69B300D844B1 /* Assets.xcassets */,
 				F4FD5ADB291A69B300D844B1 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F4FD5AD5291A69B200D844B1 /* ViewController.swift in Sources */,
+				F48CEA6B291A812100D62EF4 /* ImageSwitch.swift in Sources */,
 				F4FD5AD1291A69B200D844B1 /* AppDelegate.swift in Sources */,
 				F4FD5AD3291A69B200D844B1 /* SceneDelegate.swift in Sources */,
 			);
